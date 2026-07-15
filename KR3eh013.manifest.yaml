@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3eh013/v1
 canonical_location: https://kanripo.org/bkk/KR3eh013/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 醫學傳燈
   identifiers:
@@ -17,13 +17,13 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3eh013_000.yaml, hash: 'sha256:0bc57684418ff9de6ee7214cb381c5594b2337104f9d21b2a581cce40731c9b8'}
-  - {seq: 1, filename: KR3eh013_001.yaml, hash: 'sha256:e92d1cc4b5ce4e78d478a5936490763e2538ba9dd702fbe934c376d89ca898d0'}
-  - {seq: 3, filename: KR3eh013_003.yaml, hash: 'sha256:5bea2bf9988802f4f06d2a69ff2e39c093bcea1845c0f058f13c635672040259'}
+  - {seq: 0, filename: KR3eh013_000.yaml, hash: 'sha256:ccda157df793cad37dc157b18026c94c082d3978c1a6115393ee0d962ec7225d'}
+  - {seq: 1, filename: KR3eh013_001.yaml, hash: 'sha256:411c12745da2e5d8228723412481d7317db53fb78502e4d3ae20d1998efe6dd9'}
+  - {seq: 3, filename: KR3eh013_003.yaml, hash: 'sha256:118291202696c071b89fd551b7d4bf38dd280b8bae5f05c70bcf47bec9b0f56f'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eh013_000.markers.yaml, hash: 'sha256:8dfc2c2e25ddd68d13f2127d8221b0e153f51fc155a9d506500a6492c146e78b'}
-  - {seq: 1, role: markers, filename: assets/KR3eh013_001.markers.yaml, hash: 'sha256:faa4ecba1a8d7ee6f282652cb63d3e917ba61b97df2ccbca20780a974bc4748c'}
-  - {seq: 3, role: markers, filename: assets/KR3eh013_003.markers.yaml, hash: 'sha256:45687aa7e27699cbc63059d801d4583a5620b9a391426583ba19e824a9804a8b'}
+  - {seq: 0, role: markers, filename: assets/KR3eh013_000.markers.yaml, hash: 'sha256:c4c6a0b1b242d436f09844b83370b7713c632a63966f9dbee9da9222c752b971'}
+  - {seq: 1, role: markers, filename: assets/KR3eh013_001.markers.yaml, hash: 'sha256:34e708d7cc87a764e0562e45d443a6f719d1774a4a07fd3065edceeede4824d6'}
+  - {seq: 3, role: markers, filename: assets/KR3eh013_003.markers.yaml, hash: 'sha256:2cfcc7882853f6fb3e0873772515efc231a1fcd6d7323938e97bbb387685a674'}
 table_of_contents:
 - ref:
     seq: 0
@@ -435,4 +435,7 @@ table_of_contents:
   label: 痿症
   type: section
   level: 2
-hash: sha256:59a9eda6093ff790adacf6a9973eef09c63a0c85ebae209ff83a5c7b091d6b6e
+hash: sha256:a107ccc0e930e437d3da7d0000454ac2bd85f93c2f1942971503b18824c24b4a
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
