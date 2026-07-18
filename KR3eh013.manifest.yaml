@@ -22,8 +22,8 @@ assets:
   - {seq: 3, filename: KR3eh013_003.yaml, hash: 'sha256:118291202696c071b89fd551b7d4bf38dd280b8bae5f05c70bcf47bec9b0f56f'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR3eh013_000.markers.yaml, hash: 'sha256:c4c6a0b1b242d436f09844b83370b7713c632a63966f9dbee9da9222c752b971'}
-  - {seq: 1, role: markers, filename: assets/KR3eh013_001.markers.yaml, hash: 'sha256:34e708d7cc87a764e0562e45d443a6f719d1774a4a07fd3065edceeede4824d6'}
-  - {seq: 3, role: markers, filename: assets/KR3eh013_003.markers.yaml, hash: 'sha256:2cfcc7882853f6fb3e0873772515efc231a1fcd6d7323938e97bbb387685a674'}
+  - {seq: 1, role: markers, filename: assets/KR3eh013_001.markers.yaml, hash: 'sha256:d82e675a05c2e44beb656afae476398de7c30a8f7ef4b5af5921968334deb783'}
+  - {seq: 3, role: markers, filename: assets/KR3eh013_003.markers.yaml, hash: 'sha256:78ecca6816001c6c3a528591a941962b4400650c786ffda7c9d4c6ce0bcca300'}
 table_of_contents:
 - ref:
     seq: 0
@@ -435,7 +435,7 @@ table_of_contents:
   label: 痿症
   type: section
   level: 2
-hash: sha256:a107ccc0e930e437d3da7d0000454ac2bd85f93c2f1942971503b18824c24b4a
+hash: sha256:53c2a07e4e137ad437f4ca710561fa3b6fb9746cc51e7752e635c3ab04a795b6
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
